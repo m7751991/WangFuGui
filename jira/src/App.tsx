@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Wangwenchao
  * @Date: 2021-07-25 16:33:39
- * @LastEditTime: 2021-07-25 16:46:02
+ * @LastEditTime: 2021-07-25 16:46:41
  * @LastEditors: Wangwenchao
  */
 import React from 'react';
@@ -20,9 +20,7 @@ function App() {
 
 
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          className="App-link" href="https://reactjs.org" target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
