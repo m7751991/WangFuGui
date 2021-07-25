@@ -1,0 +1,26 @@
+.App {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.header{
+  height: 40px;
+  width: 100%;
+  background-color: #fff;
+}
+.fd-content{
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+.fd-table{
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right:0;
+  bottom: 0;
+  overflow: auto;
+}
+#root{
+  height: 100%;
+}
